@@ -13,23 +13,6 @@ This repository contains solutions to small problem statements, along with clear
 
 🛠 Different approaches and methods are provided where possible.
 
-## ⚡ Example  
-
-**Problem:** Reverse a number  
-
-```swift
-func reverseNumber(_ num: Int) -> Int {
-    var number = num
-    var reversed = 0
-    while number != 0 {
-        let digit = number % 10
-        reversed = reversed * 10 + digit
-        number /= 10
-    }
-    return reversed
-}
-
-print(reverseNumber(-96734)) // Output: -43769
 
 
 🎯 How to Run
@@ -80,6 +63,24 @@ Practicing DSA with Swift.
 Preparing for coding interviews.
 
 Building problem-solving skills with simple, clear examples.
+
+## ⚡ Example  
+
+**Problem:** Reverse a number  
+
+```swift
+func reverseNumber(_ num: Int) -> Int {
+    var number = num
+    var reversed = 0
+    while number != 0 {
+        let digit = number % 10
+        reversed = reversed * 10 + digit
+        number /= 10
+    }
+    return reversed
+}
+
+print(reverseNumber(-96734)) // Output: -43769
 
 
 
