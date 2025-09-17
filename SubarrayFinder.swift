@@ -40,10 +40,12 @@ Length 6 (whole array):
 
 [2, 3, 1, 2, 4, 3]
 
- 🎯 Example problems 
+
+
+🎯 Example problems 
 
 ## ✅ Example - 1
-// Example - 1
+
 let numbers = [1, 4, 4]
 var allSubarrays = [[Int]]()  
 
@@ -57,7 +59,7 @@ for start in 0..<numbers.count {
 print(allSubarrays)
 
 ## ✅ Example - 2
-// Example - 2
+
 let numbers = [1, 4, 4]
 
 func findSubarrays(_ arr: [Int]) -> [[Int]]  {
