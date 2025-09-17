@@ -13,11 +13,11 @@ This repository contains solutions to small problem statements, along with clear
 
 🛠 Different approaches and methods are provided where possible.
 
+## ⚡ Example  
 
-⚡ Example
+**Problem:** Reverse a number  
 
-Problem: Reverse a number
-
+```swift
 func reverseNumber(_ num: Int) -> Int {
     var number = num
     var reversed = 0
