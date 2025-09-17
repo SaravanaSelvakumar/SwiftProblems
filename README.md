@@ -13,7 +13,6 @@ This repository contains solutions to small problem statements, along with clear
 
 🛠 Different approaches and methods are provided where possible.
 
-SwiftProblems/
 │── Arrays/
 │   ├── ReverseArray.swift
 │   ├── Subarrays.swift
