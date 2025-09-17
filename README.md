@@ -81,11 +81,3 @@ func reverseNumber(_ num: Int) -> Int {
 }
 
 print(reverseNumber(-96734)) // Output: -43769
-
-
-
-
-
-
-
-
