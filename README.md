@@ -13,19 +13,24 @@ This repository contains solutions to small problem statements, along with clear
 
 🛠 Different approaches and methods are provided where possible.
 
+
+## 📂 Folder Structure  
+
+SwiftProblems/
 │── Arrays/
-│   ├── ReverseArray.swift
-│   ├── Subarrays.swift
+│ ├── ReverseArray.swift
+│ ├── Subarrays.swift
 │── Strings/
-│   ├── Palindrome.swift
-│   ├── Anagram.swift
+│ ├── Palindrome.swift
+│ ├── Anagram.swift
 │── Recursion/
-│   ├── Factorial.swift
-│   ├── Fibonacci.swift
+│ ├── Factorial.swift
+│ ├── Fibonacci.swift
 │── Sorting/
-│   ├── BubbleSort.swift
-│   ├── QuickSort.swift
+│ ├── BubbleSort.swift
+│ ├── QuickSort.swift
 │── README.md
+
 
 ⚡ Example
 
