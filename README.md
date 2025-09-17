@@ -27,7 +27,6 @@ This repository contains solutions to small problem statements, along with clear
 │   ├── QuickSort.swift
 │── README.md
 
-
 ⚡ Example
 
 Problem: Reverse a number
